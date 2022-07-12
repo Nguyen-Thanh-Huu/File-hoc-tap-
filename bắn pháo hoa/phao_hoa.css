@@ -1,0 +1,10 @@
+ h1 {
+     position: relative;
+     top: 50vh;
+    
+    font-size: 30px;
+    text-align: center;
+    background-color: white;
+    color: rgb(12, 1, 1) !important;
+    
+}
